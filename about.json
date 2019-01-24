@@ -1,0 +1,17 @@
+{
+    "name": "Dark Material Design Theme",
+    "color_schemes": {
+        "Dark 2.0": {
+            "primary": "#eaeaea",
+            "secondary": "#242424",
+            "tertiary": "#1d6582",
+            "quaternary": "#27799a",
+            "header_background": "#2d2d2d",
+            "header_primary": "#808080",
+            "highlight": "#5b88ca",
+            "danger": "#bb3515",
+            "success": "#009900",
+            "love": "#fa6c8d"
+        }
+    }
+}
